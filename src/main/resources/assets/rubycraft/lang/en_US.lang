@@ -1,0 +1,7 @@
+tile.blockRuby.name=Block of Ruby
+item.rubyWand.name=Ruby Magic Wand
+
+death.attack.rubyMagic=%s was ate by ruby
+
+achievement.rubycraft.makeLighting=Artificial Lightning
+achievement.rubycraft.makeLighting.desc=Make lighting using Ruby Magic Wand

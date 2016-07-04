@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rubycraft",
+  "name": "Rubycraft",
+  "description": "What is that red thing?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sjx233"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
