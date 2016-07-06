@@ -1,4 +1,4 @@
-package com.flatworks.rubycraft.items;
+package com.flatworks.rubycraft.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;

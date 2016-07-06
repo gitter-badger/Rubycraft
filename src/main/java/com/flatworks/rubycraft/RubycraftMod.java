@@ -1,9 +1,9 @@
 package com.flatworks.rubycraft;
 
-import com.flatworks.rubycraft.items.BlockRubyBlock;
-import com.flatworks.rubycraft.items.BlockRubyOre;
-import com.flatworks.rubycraft.items.ItemRuby;
-import com.flatworks.rubycraft.items.ItemRubyWand;
+import com.flatworks.rubycraft.block.BlockRubyBlock;
+import com.flatworks.rubycraft.block.BlockRubyOre;
+import com.flatworks.rubycraft.item.ItemRuby;
+import com.flatworks.rubycraft.item.ItemRubyWand;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;

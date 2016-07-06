@@ -1,4 +1,4 @@
-package com.flatworks.rubycraft.items;
+package com.flatworks.rubycraft.block;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.flatworks.rubycraft.items;
+package com.flatworks.rubycraft.item;
 
 import java.util.HashSet;
 

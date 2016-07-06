@@ -1,4 +1,4 @@
-package com.flatworks.rubycraft.items;
+package com.flatworks.rubycraft.item;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
