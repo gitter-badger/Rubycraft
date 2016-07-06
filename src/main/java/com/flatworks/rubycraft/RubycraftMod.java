@@ -89,7 +89,7 @@ public class RubycraftMod {
         GameRegistry.addShapedRecipe(new ItemStack(RUBY, 9), "#", '#', RUBY_BLOCK);
         GameRegistry.addShapedRecipe(new ItemStack(RUBY_WAND), "  #", " | ", "|  ", '#', RUBY, '|',
                 Items.STICK);
-        
+        GameRegistry.addSmelting(new ItemStack(RUBY_ORE), new ItemStack(RUBY), 1f);
         GameRegistry.registerWorldGenerator(new WorldGenRubyOre(), 20);
         
         if (event.getSide().equals(Side.CLIENT)) {
